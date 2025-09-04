@@ -1,4 +1,4 @@
-#  Student and Teacher Management System
+#EduTrack
 
 A Python-based Student and Teacher Management System with separate Admin and Teacher portals.  
 Features include student data management, teacher records handling, department performance reports, grade calculation, and file-based data storage.
