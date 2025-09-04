@@ -1,0 +1,25 @@
+details about the project
+---------------------
+Login Details
+
+Admin Login:
+Username: admin
+Password: admin
+
+Teacher Login:
+Username: teacher
+Password: teacher
+---------------------
+MINI_PRJCT_ORG/
+│── main.py # Main file with menu (Admin/Teacher login)
+│── function.py # Contains Collage class and all functions
+│── data.txt # Student data storage
+│── teachers.txt # Teacher data storage
+│── admin_txt/ # Output files for admin
+│ ├── All_student_data.txt
+│ ├── Teachers_details.txt
+│ ├── Department_report.txt
+│── teacher_txt/ # Output files for teacher
+│ ├── Teacher_department_details.txt
+│ ├── Teacher_avg_mark.txt
+│ ├── Teacher_grade_view.txt
