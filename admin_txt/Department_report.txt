@@ -1,0 +1,6 @@
+Department : ComputerScience,  Total marks of full students is : 3425
+Department : MechanicalEngineering,  Total marks of full students is : 5968
+Department : ElectricalEngineering,  Total marks of full students is : 3261
+Department : CivilEngineering,  Total marks of full students is : 4164
+==================================================================================
+The Department which has the highest perfomance is : MechanicalEngineering

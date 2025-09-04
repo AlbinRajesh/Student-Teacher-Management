@@ -1,0 +1,14 @@
+SI NO : 1, Name: albin rajesh, Department: ComputerScience, Roll no: 1, Maths: 78, Physics: 90, Programming: 99
+SI NO : 2, Name: BobSmith, Department: ComputerScience, Roll no: 2, Maths: 74, Physics: 81, Programming: 88
+SI NO : 3, Name: CharlieBrown, Department: ComputerScience, Roll no: 3, Maths: 90, Physics: 85, Programming: 95
+SI NO : 4, Name: DaisyCarter, Department: ComputerScience, Roll no: 4, Maths: 68, Physics: 72, Programming: 80
+SI NO : 5, Name: EthanLee, Department: ComputerScience, Roll no: 5, Maths: 50, Physics: 60, Programming: 70
+SI NO : 6, Name: FionaDavis, Department: ComputerScience, Roll no: 6, Maths: 77, Physics: 74, Programming: 85
+SI NO : 7, Name: GeorgeWilson, Department: ComputerScience, Roll no: 7, Maths: 88, Physics: 83, Programming: 91
+SI NO : 8, Name: HannahMoore, Department: ComputerScience, Roll no: 8, Maths: 69, Physics: 70, Programming: 78
+SI NO : 9, Name: IanClark, Department: ComputerScience, Roll no: 9, Maths: 95, Physics: 92, Programming: 97
+SI NO : 10, Name: PaulaGreen, Department: ComputerScience, Roll no: 16, Maths: 70, Physics: 73, Programming: 81
+SI NO : 11, Name: QuinnBaker, Department: ComputerScience, Roll no: 17, Maths: 94, Physics: 90, Programming: 96
+SI NO : 12, Name: RyanAdams, Department: ComputerScience, Roll no: 18, Maths: 79, Physics: 76, Programming: 87
+SI NO : 13, Name: SophiaTurner, Department: ComputerScience, Roll no: 19, Maths: 83, Physics: 80, Programming: 88
+SI NO : 14, Name: ThomasEvans, Department: ComputerScience, Roll no: 20, Maths: 91, Physics: 87, Programming: 95

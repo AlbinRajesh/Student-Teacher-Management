@@ -1,0 +1,11 @@
+Teacher id :t1, Name :John Smith, Age : 40, Ph number : 9876543210
+Teacher id :t2, Name :Priya Sharma, Age : 35, Ph number : 9123456780
+Teacher id :t3, Name :Rahul Nair, Age : 42, Ph number : 9876012345
+Teacher id :t4, Name :Michael Brown, Age : 45, Ph number : 9988776655
+Teacher id :t5, Name :Anita Desai, Age : 38, Ph number : 9876501234
+Teacher id :t6, Name :David Johnson, Age : 50, Ph number : 9098765432
+Teacher id :t7, Name :Reshma Khan, Age : 33, Ph number : 9123098765
+Teacher id :t8, Name :Surya Verma, Age : 36, Ph number : 9345678123
+Teacher id :t9, Name :Albin Rajesh, Age : 29, Ph number : 8934723482
+Teacher id :t10, Name :Simi Thomas, Age : 41, Ph number : 9483728192
+Teacher id :t11, Name :subin, Age : 32, Ph number : 89218374586

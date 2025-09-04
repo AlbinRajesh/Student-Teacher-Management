@@ -1,0 +1,17 @@
+SI NO : 1, Name: AaronHughes, Department: CivilEngineering, Roll no: 1, Maths: 78, Physics: 82, Programming: 80, Average Mark: 80, Grade =  :A
+SI NO : 2, Name: BellaSimmons, Department: CivilEngineering, Roll no: 2, Maths: 85, Physics: 79, Programming: 83, Average Mark: 82, Grade =  :A
+SI NO : 3, Name: CalebFoster, Department: CivilEngineering, Roll no: 3, Maths: 80, Physics: 87, Programming: 67, Average Mark: 78, Grade =  :B
+SI NO : 4, Name: DianaPalmer, Department: CivilEngineering, Roll no: 4, Maths: 88, Physics: 81, Programming: 85, Average Mark: 84, Grade =  :A
+SI NO : 5, Name: ElliotBrooks, Department: CivilEngineering, Roll no: 5, Maths: 91, Physics: 85, Programming: 87, Average Mark: 87, Grade =  :A
+SI NO : 6, Name: FaithReynolds, Department: CivilEngineering, Roll no: 6, Maths: 80, Physics: 77, Programming: 82, Average Mark: 79, Grade =  :B
+SI NO : 7, Name: GavinBennett, Department: CivilEngineering, Roll no: 7, Maths: 75, Physics: 73, Programming: 79, Average Mark: 75, Grade =  :B
+SI NO : 8, Name: KyleReed, Department: CivilEngineering, Roll no: 8, Maths: 82, Physics: 79, Programming: 84, Average Mark: 81, Grade =  :A
+SI NO : 9, Name: LiamBell, Department: CivilEngineering, Roll no: 9, Maths: 90, Physics: 86, Programming: 89, Average Mark: 88, Grade =  :A
+SI NO : 10, Name: MayaWard, Department: CivilEngineering, Roll no: 10, Maths: 74, Physics: 72, Programming: 78, Average Mark: 74, Grade =  :B
+SI NO : 11, Name: NoahCox, Department: CivilEngineering, Roll no: 11, Maths: 86, Physics: 84, Programming: 85, Average Mark: 85, Grade =  :A
+SI NO : 12, Name: OliviaGray, Department: CivilEngineering, Roll no: 12, Maths: 79, Physics: 81, Programming: 82, Average Mark: 80, Grade =  :A
+SI NO : 13, Name: ParkerDiaz, Department: CivilEngineering, Roll no: 13, Maths: 83, Physics: 80, Programming: 84, Average Mark: 82, Grade =  :A
+SI NO : 14, Name: QuincyRoss, Department: CivilEngineering, Roll no: 14, Maths: 85, Physics: 82, Programming: 86, Average Mark: 84, Grade =  :A
+SI NO : 15, Name: RubyPerry, Department: CivilEngineering, Roll no: 15, Maths: 76, Physics: 74, Programming: 79, Average Mark: 76, Grade =  :B
+SI NO : 16, Name: SamuelButler, Department: CivilEngineering, Roll no: 16, Maths: 88, Physics: 85, Programming: 87, Average Mark: 86, Grade =  :A
+SI NO : 17, Name: TaraLong, Department: CivilEngineering, Roll no: 17, Maths: 80, Physics: 78, Programming: 82, Average Mark: 80, Grade =  :A
