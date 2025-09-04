@@ -152,7 +152,7 @@ class collage:
                 )
 
         if not found:
-            print("||| The Teacher Id does not Match |||")
+            print("||| The Teacher Removed |||")
         else:
             print("=============================================================================================") 
             print(f"  The teacher with the id of {r_id} has been removed from the -Teachers_details.txt- file")

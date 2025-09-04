@@ -1,4 +1,4 @@
-SI NO : 1, Name: AaronHughes, Department: CivilEngineering, Roll no: 1, Maths: 78, Physics: 82, Programming: 80, Average Mark: 80, Grade =  :A
+SI NO : 1, Name: AaronHughes, Department: CivilEngineering, Roll no: 1, Maths: 80, Physics: 82, Programming: 84, Average Mark: 82, Grade =  :A
 SI NO : 2, Name: BellaSimmons, Department: CivilEngineering, Roll no: 2, Maths: 85, Physics: 79, Programming: 83, Average Mark: 82, Grade =  :A
 SI NO : 3, Name: CalebFoster, Department: CivilEngineering, Roll no: 3, Maths: 80, Physics: 87, Programming: 67, Average Mark: 78, Grade =  :B
 SI NO : 4, Name: DianaPalmer, Department: CivilEngineering, Roll no: 4, Maths: 88, Physics: 81, Programming: 85, Average Mark: 84, Grade =  :A

@@ -7,4 +7,4 @@ Teacher id :t6, Name :Reshma, Age : 32, Ph number : 9123901234
 Teacher id :t7, Name :Surya Kumar, Age : 34, Ph number : 9342394242
 Teacher id :t8, Name :Neha Verma, Age : 29, Ph number : 9812345678
 Teacher id :t9, Name :Rahul Mehta, Age : 42, Ph number : 9876549876
-Teacher id :t10, Name :Albin Rajesh, Age : 23, Ph number : 2327891763
+Teacher id :t10, Name :Sanjay Patel, Age : 37, Ph number : 9765432109
